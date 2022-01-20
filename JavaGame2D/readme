@@ -1,0 +1,3 @@
+This is a 2D game made entirely in java in the processing library to help in drawing some certain shapes. The collision detection is made using the same library.
+The characters (enemies, bosses, pickups, bombs and the player) all have rigid collision boxes, this collision boxes are moved according to the laws of physics (in the case of pickups)
+and the input of the player for the controllable character. In other words, the game has root motion.

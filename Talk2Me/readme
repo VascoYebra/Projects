@@ -1,0 +1,3 @@
+This is a mobile application made for android. Its an instant messaging app that allows users to add eachtoher, remove eachtoher, send text, emojis, images and audio messages.
+All the data is managed using google cloud storage, Firebase.
+This directory contains a file of the apk ready to install
