@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talk2Me</string>
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="entrar">Entra</string>
+    <string name="Validar">Verificar</string>
+    <string name="LogInButton">Entrar</string>
+    <string name="noAccount">Sem conta? Registe-se gratuitamente</string>
+    <string name="LogOutBT">Sair</string>
+    <string name="settingsToolbar">Sobre</string>
+    <string name="LogoutFromToolBar">Sair</string>
+    <string name="forgotPassword">Esqueceu a Password?</string>
+    <string name="go_vip">Tornar-me VIP!</string>
+    <string name="go_normal">Tornar-me Normal</string>
+    <string name="hello_i_m_vasco_cruz_a_student_in_a_engineering_and_multimedia_course_in_isel_currently_my_last_year_of_studies_n_this_application_was_made_for_a_subject_during_the_month_of_august_as_a_final_project_it_contains_a_little_part_of_me_development_was_hard_and_slow_but_with_a_lot_of_persistence_hardwork_and_literal_tears_here_it_is_n_i_hope_you_find_some_use_for_it_and_have_fun_messaging_with_your_friends">"Olá sou o Vasco Cruz, aluno do curso de engenharia e multimédia do ISEL. Atualmente meu último ano de estudos. Esta aplicação foi feita para uma disciplina durante o mês de agosto como um projeto final. Ele contém uma pequena parte de mim. O desenvolvimento foi difícil e lento, mas com muita persistência, trabalho duro e lágrimas literais aqui está. Espero que você encontre algum uso para ele e se divirta trocando mensagens com seus amigos!  "</string>
+    <string name="QA">P: Por que um aplicativo de mensagens como projeto final? R: Um aplicativo que permite que as pessoas se comuniquem é muito versátil porque é tão interessante quanto as pessoas com quem você está falando. Ele fornece uma plataforma para as pessoas se comunicarem e não há necessidade mais básica para os humanos do que isso. Para compartilhar histórias. P: Por que tenho que me registrar / adicionar pessoas por e-mail? Por que não posso usar um número de telefone? Para não cobrar taxas de operadora dos usuários, o aplicativo é desenvolvido usando os e-mails dos usuários. P: A gravação às vezes trava meu aplicativo / notificações não aparecem corretamente? R: Estou ciente desse problema. Algumas marcas de telefones celulares são notoriamente difíceis de implementar gravações / notificações, especialmente Xiaomi / Huawei e Samsung. P: Por que as imagens / são separadas das próprias conversas? R: O aplicativo foi projetado desta forma porque um de seus propósitos é valorizar o dinheiro dos usuários e o que eles querem ou não ver. Por exemplo, se eu não quiser transmitir dados móveis para ver as imagens que meus contatos enviam, mas ainda quiser enviar uma mensagem de texto, posso fazer isso. Se, por exemplo, eu quiser nunca mais ver uma imagem que alguém enviou, também tenho essa opção.</string>
+    <string name="about_the_dev">Sobre o Dev:</string>
+    <string name="about_the_app">Sobre a App:</string>
+    <string name="write_your_email">Escreve o teu email</string>
+    <string name="write_your_password">Escreve a tua password</string>
+    <string name="write_your_name">Escreve o teu nome</string>
+</resources>

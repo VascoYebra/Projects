@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/settingsToolbar"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/goVip"
+        android:title="@string/go_vip"
+        android:orderInCategory="200"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/goNormal"
+        android:title="@string/go_normal"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item_sair"
+        android:title="@string/LogoutFromToolBar"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/item_removeUser"
+        android:title="Search"
+        android:orderInCategory="400"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_action_cancel"/>
+
+    <item android:id="@+id/item_adicionar"
+        android:title="Add"
+        android:orderInCategory="500"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_person_add"/>
+
+
+</menu>

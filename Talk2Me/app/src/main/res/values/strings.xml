@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Talk2Me</string>
+    <string name="title_activity_login" translatable="false">LoginActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="entrar">Sing in !</string>
+    <string name="Validar">Verify</string>
+    <string name="ValidarTop" translatable="false">Check your SMS</string>
+    <string name="descricao" translatable="false">A code has been sent to your SMS. Please check it and put in the box below to verify your account</string>
+    <string name="LogInButton">Log In</string>
+    <string name="noAccount">Don\'t have an account? Register for FREE</string>
+    <string name="LogOutBT">Log Out</string>
+    <string name="settingsToolbar">About</string>
+    <string name="LogoutFromToolBar">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="zero" translatable="false">0:00</string>
+    <string name="forgotPassword">Forgot your Password?</string>
+    <string name="go_vip">Go VIP !</string>
+    <string name="go_normal">Go Normal</string>
+    <string name="chose_a_language" translatable="false">Chose a Language:</string>
+    <string name="change_language" translatable="false">Change Language</string>
+    <string name="hello_i_m_vasco_cruz_a_student_in_a_engineering_and_multimedia_course_in_isel_currently_my_last_year_of_studies_n_this_application_was_made_for_a_subject_during_the_month_of_august_as_a_final_project_it_contains_a_little_part_of_me_development_was_hard_and_slow_but_with_a_lot_of_persistence_hardwork_and_literal_tears_here_it_is_n_i_hope_you_find_some_use_for_it_and_have_fun_messaging_with_your_friends">Hello I\'m Vasco Cruz, a student in a engineering and multimedia course in ISEL. Currently my last year of studies.  This Application was made for a subject during the month of August as a final project. It contains a little part of me. Development was hard and slow, but with a lot of persistence, hardwork and literal tears here it is.  I Hope you find some use for it and have fun messaging with your friends!</string>
+    <string name="about_the_dev">About the Dev:</string>
+    <string name="about_the_app">About the App:</string>
+    <string name="QA">Q: Why a messaging App as a final project?\nA: A application that allows people to communicate is very versatile because it\'s as interesting as the people you are talking to. It provides a plataform for people to communicate and there\'s no need more basic to humans than that. To Share Stories. \nQ: Why do i have to register/add people by their email? Why cant i use a phone number?\nA: In order not to charge users carrier fees the application is built using users emails.\nQ:Recording sometimes crashes my application/notifications dont appear properly?\nA: I\'m aware of this issue. Some cell phone brands are notoriously difficult to implement recording/notifications specially Xiaomi/Huawei and Samsung.\nQ:Why are the images/separate from the conversations itself?\nA:The App was designed this way because one of it\'s purposes is to value users money and what they want or not to see. So for example, if i dont feel like speding mobile data to see the images my contacts send but i still want to text them i can do that. If for example i want to never see an image someone sent i also have that option.</string>
+    <string name="write_your_name">Write your name</string>
+    <string name="write_your_email">Write your email</string>
+    <string name="write_your_password">Write your password</string>
+</resources>

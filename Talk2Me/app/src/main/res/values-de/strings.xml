@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Talk2Me</string>
+    <string name="hello_world">Hallo Welt!</string>
+    <string name="noAccount">Sie haben noch keinen Account? Kostenlos registrieren</string>
+    <string name="LogOutBT">Ausloggen</string>
+    <string name="settingsToolbar">die Einstellungen</string>
+    <string name="LogoutFromToolBar">Ausloggen</string>
+    <string name="forgotPassword">Passwort vergessen?</string>
+    <string name="go_vip">Gehen Sie VIP</string>
+    <string name="go_normal">Gehen Sie normal</string>
+    <string name="entrar">Einloggen</string>
+    <string name="Validar">überprüfen</string>
+    <string name="LogInButton">Anmeldung</string>
+    <string name="hello_i_m_vasco_cruz_a_student_in_a_engineering_and_multimedia_course_in_isel_currently_my_last_year_of_studies_n_this_application_was_made_for_a_subject_during_the_month_of_august_as_a_final_project_it_contains_a_little_part_of_me_development_was_hard_and_slow_but_with_a_lot_of_persistence_hardwork_and_literal_tears_here_it_is_n_i_hope_you_find_some_use_for_it_and_have_fun_messaging_with_your_friends">Hallo, ich bin Vasco Cruz, ein Student in einem Ingenieur- und Multimedia-Kurs in ISEL. Derzeit mein letztes Studienjahr. Dieser Antrag wurde für ein Thema im August als Abschlussprojekt gestellt. Es enthält einen kleinen Teil von mir. Die Entwicklung war hart und langsam, aber mit viel Beharrlichkeit, harter Arbeit und buchstäblichen Tränen ist es hier. Ich hoffe, Sie finden eine Verwendung dafür und haben Spaß beim Versenden von Nachrichten mit Ihren Freunden!</string>
+    <string name="about_the_dev">Über den Entwickler:</string>
+    <string name="about_the_app">Über die App:</string>
+    <string name="QA">"F: Warum eine Messaging-App als Abschlussprojekt? A: Eine Anwendung, mit der Menschen kommunizieren können, ist sehr vielseitig, da sie genauso interessant ist wie die Menschen, mit denen Sie sprechen. Es bietet eine Plattform für die Kommunikation von Menschen und es gibt keine grundlegendere Notwendigkeit für Menschen als diese. Geschichten teilen. F: Warum muss ich Personen per E-Mail registrieren / hinzufügen? Warum kann ich keine Telefonnummer verwenden? Um den Benutzern keine Netzbetreibergebühren in Rechnung zu stellen, wird die Anwendung mithilfe von Benutzer-E-Mails erstellt. F: Die Aufzeichnung stürzt manchmal ab. Meine Anwendung / Benachrichtigungen werden nicht richtig angezeigt. A: Mir ist dieses Problem bekannt. Einige Handymarken sind bekanntermaßen schwierig zu implementieren, insbesondere Xiaomi / Huawei und Samsung. F: Warum sind die Bilder von den Gesprächen selbst getrennt? A: Die App wurde auf diese Weise entwickelt, weil einer ihrer Zwecke darin besteht, den Nutzern Geld zu geben und zu zeigen, was sie sehen oder nicht sehen wollen. Wenn ich zum Beispiel keine Lust habe, mobile Daten zu beschleunigen, um die Bilder zu sehen, die meine Kontakte senden, aber ich möchte ihnen trotzdem eine SMS schreiben, kann ich das tun. Wenn ich zum Beispiel nie ein Bild sehen möchte, das jemand gesendet hat, habe ich auch diese Option.  "</string>
+    <string name="write_your_email">Schreiben Sie Ihre E-Mail</string>
+    <string name="write_your_password">Schreiben Sie Ihre Password</string>
+    <string name="write_your_name">Schreiben Sie Ihren Namen</string>
+</resources>
