@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    min-height: 150px;
+    width: 100%;
+}
+
+.dark_blue {
+    background-color: darkblue;
+}
+
+.light_blue {
+    background-color: lightblue;
+}
+
+.green {
+    background-color: green;
+}
+
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media only screen and (min-width: 576px) {
+    .dark_blue {
+        width: 25%;
+    }
+    .light_blue {
+        width: 75%;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media only screen and (min-width: 768px) {
+    .dark_blue,
+    .green {
+        width: 25%;
+    }
+    .light_blue {
+        width: 50%;
+    }
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media only screen and (min-width: 992px) {}
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media only screen and (min-width: 1200px) {}

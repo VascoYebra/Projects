@@ -1,0 +1,167 @@
+html {
+    font-size: 100%;
+}
+
+body {
+	background-color:#CCCCCC;
+	font-family:Geneva,Arial,Helvetica,sans-serif;
+	margin: 0px;
+	max-width:100%;
+	border:solid;
+	border-color:#FFFFFF;
+/*	font-size: 100%;*/
+}
+
+* {
+	box-sizing: border-box;
+}
+
+header {
+    background-color: #000000;
+    display:block;
+    color:#FFFFFF;
+    text-align:center;
+}
+
+h1 {
+    font-size: 2.441rem;
+    margin: 0px;
+}
+
+
+h2 {
+    font-size: 2rem;
+    margin: 0px;
+    text-align:center;
+    color: #000000;
+}
+
+h3 {
+    font-size: 1.563rem;
+    margin: 0px;
+    text-align:center;
+    color: #FFFFFF;
+}
+
+header h2 {
+    margin: 0px;
+}
+
+h4 {
+    color: #000000;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 20px #888;
+    transform: rotate(-45deg);
+    position: absolute;
+    padding: 0px 30px;
+    top: 40px;
+    left: -50px;
+    text-align:center;
+    font-size: 1.250rem;
+}
+
+
+nav {
+    display:block;
+    height: 100%;
+}
+
+nav a:link, nav a:visited {
+    display: block;
+    border-bottom: 3px solid #fff;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 5px;
+}
+
+nav a {
+    font-size: 2.4rem;
+}
+
+
+nav a:hover {
+    color: white;
+    background-color: #000000;
+}
+
+section {
+    display:block;
+    background-color: #eee;
+    margin: 3px auto;
+    padding: 3px 0px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px #888;
+}
+
+section h2 {
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 1.2rem;
+}
+
+section p, li {
+    margin: 0px 10px;
+    font-size: 0.8rem;
+}
+
+section li {
+    margin: 0px 20px;
+
+}
+
+aside {
+display:none;
+}
+
+aside h3 {
+    margin: 15px;
+    color: black;
+}
+
+aside p {
+    margin: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+#container {
+    background-color: #888;
+    margin: 10px;
+}
+
+footer {
+    clear: both;
+    display: block;
+    background-color: #000000;
+    color:#FFFFFF;
+    text-align:center;
+    padding: 15px;
+}
+
+footer h2 {
+    font-size: 0.7rem;
+    color: white;
+}
+
+.animation {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: relative;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    border-radius: 10px;
+}
+
+@keyframes example {
+    0%   {background-color:white; left:0%; top:0%;}
+    25%  {background-color:black; left:50%; top:50%;}
+    50%  {background-color:white; left:100%; top:100%;}
+    75%  {background-color:black; left:50%; top:50%;}
+    100%  {background-color:white; left:0%; top:0%;}
+}
