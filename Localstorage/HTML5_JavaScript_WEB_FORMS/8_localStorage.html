@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+   <script>
+       window.localStorage.setItem("RUI", "XXXX");
+       let txt = window.localStorage.getItem("RUI");
+       document.writeln(txt);
+       let y = window.localStorage.length;
+       document.writeln(y);
+       window.localStorage.removeItem("RUI");
+       let x = window.localStorage.length;
+       document.writeln(x);
+   </script>
+</body>
+</html>

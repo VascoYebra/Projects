@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head lang="pt">
+    <meta charset="UTF-8">
+    <title>Questionário</title>
+    <script src="/js/form_manager.js"></script>
+</head>
+<body>
+<header>
+    <h1>Questionário</h1>
+    <h2>Google Images</h2>
+</header>
+
+<section id="dados_pessoais">
+    <form name="fdpessoais" method="GET" onsubmit="validateForm2()" action="3Pagina.html">
+        <fieldset>
+            <legend>Dados Pessoais</legend>
+            <article id = "dp1">
+                <h3>1 - Qual é a sua idade? </h3>
+                <input id = "name1" type="radio" name="idade" value="<18">
+                <label for = "name1"> <18 </label>
+
+                <input id = "name2" type="radio" name="idade" value="18-25">
+                <label for = "name2" >18-25</label>
+
+                <input id = "name3" type="radio" name="idade" value="26-33" required>
+                <label for = "name3"> 26-33 </label>
+
+                <input id = "name4" type="radio" name="idade" value="34-40" required>
+                <label for = "name4"> 34-40 </label>
+
+                <input id = "name5" type="radio" name="idade" value=">40" required>
+                <label for = "name5"> >40 </label>
+
+            </article>
+
+            <article id = "dp2">
+                <h3> 2- Género:</h3>
+                <input id = "masc" type="radio" name="sexo" value="masculino">
+                <label for = "masc"> Masculino </label>
+
+                <input id = "fem" type="radio" name="sexo" value="feminino">
+                <label for = "fem"> Feminino </label>
+            </article>
+
+            <articlen id="3">
+                <h3> 3 -Com que frequência usa a Internet?</h3>
+                <input id = "gamer" type="radio" name="netUse" value="Mais que 8 horas por dia">
+                <label for = "gamer"> Mais que 8 horas por dia </label>
+                <br>
+
+                <input id = "average" type="radio" name="netUse" value="entre 3 a 6 horas">
+                <label for = "average"> entre 3 a 6 horas </label>
+                <br>
+
+                <input id = "casual" type="radio" name="netUse" value="menos que 2 horas diarias">
+                <label for = "casual"> Menos que 2 horas diarias </label>
+                <br>
+
+                <input id = "oldPeople" type="radio" name="netUse" value="semanalmente">
+                <label for = "oldPeople"> Semanalmente </label>
+                <br>
+
+                <input id = "AntiTech" type="radio" name="netUse" value="mensalmente">
+                <label for = "AntiTech"> Mensalmente </label>
+                <br>
+
+            </article>
+
+            <article id="4">
+                <h3> 4 - Indique por ordem de preferência, quais os browsers que mais utiliza:</h3>
+                <label for="topPick">Opção 1</label>
+                <select id="topPick" name="q4" onchange="checkBrowser(this)" required>
+                    <option value="">Selecione uma opção</option>
+                    <option value="Firefox">Firefox</option>
+                    <option value="Chrome">Chrome</option>
+                    <option value="Edge">Edge</option>
+                    <option value="Safari">Safari</option>
+                    <option value="Explorer">Explorer</option>
+                    <option value="Opera">Opera</option>
+                  </select> 
+                  <br>
+
+                  <label for="secondPick">Opção 2</label>
+                  <select id="secondPick" name="q42" onchange="checkBrowser(this)" required>
+                        <option value="">Selecione uma opção</option>
+                        <option value="Firefox">Firefox</option>
+                        <option value="Chrome">Chrome</option>
+                        <option value="Edge">Edge</option>
+                        <option value="Safari">Safari</option>
+                        <option value="Explorer">Explorer</option>
+                        <option value="Opera">Opera</option>
+                    </select> 
+                    <br>
+
+                      <label for="thirdPick">Opção 3</label>
+                      <select id="thirdPick" name="q43" onchange="checkBrowser(this)" required>
+                        <option value="">Selecione uma opção</option>
+                        <option value="Firefox">Firefox</option>
+                        <option value="Chrome">Chrome</option>
+                        <option value="Edge">Edge</option>
+                        <option value="Safari">Safari</option>
+                        <option value="Explorer">Explorer</option>
+                        <option value="Opera">Opera</option>
+                      </select> 
+            </article>
+
+            <article id="5">
+                <h3> 5 -Utiliza outros websites ou aplicações para procurar imagens/fotografias digitais?</h3>
+                <input id = "no" type="radio" name="photoWebsite" value="no" onchange="Write_Text()">
+                <label for = "no"> Não </label>
+
+                <input id = "yes" type="radio" name="photoWebsite" value="yes" onchange="Write_Text()">
+                <label for = "yes"> Sim </label>
+
+                <form>
+                        <textarea rows="1" cols="50" name="caixaTexto" id="caixaTexto5"></textarea>
+                </form>
+            </article>
+
+            <br>
+            <div id="next">
+                <input id="sub" type="submit" name="submit" value="Next">
+            </div>
+        </fieldset>
+    </form>
+</section>
+</body>
+</html>
