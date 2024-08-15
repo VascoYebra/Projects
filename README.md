@@ -2,14 +2,14 @@ This repository contains university group/single projects as well as personal on
 
 🐉  Python Projects brief description:
 
-   😮 AgentBasedModelling -> Based on a research paper mentioned within, a simulation of how fast a rumour causing a certain emotion
+   *😮 AgentBasedModelling -> Based on a research paper mentioned within, a simulation of how fast a rumour causing a certain emotion
    spreads in a population considering the rumour causes the same emotion in every agent.
    
-   📲 Data analysis, Feature Enginnering -> Consists of two parts, the first one deals interpreting a dataset finding outliers
+   *📲 Data analysis, Feature Enginnering -> Consists of two parts, the first one deals interpreting a dataset finding outliers
     an relationships between variables (pearsons,spearman,etc...). The second part deals with feature selection, dimensionality reduction
     and clustering algorithms
     
-  💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public. Dataset is about EV and their 
+  *💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public. Dataset is about EV and their 
   predicted/previous capacity based on countries, different manufacturers and predicted demand.
   ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes)
 )
