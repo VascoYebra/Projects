@@ -10,7 +10,7 @@ This repository contains university group/single projects as well as personal on
     and clustering algorithms
     
   💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public. Dataset is about EV and their 
-  predicted capacity based on countries, and different manufacturers
+  predicted/previous capacity based on countries, different manufacturers and predicted demand.
   ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes)
 )
   
