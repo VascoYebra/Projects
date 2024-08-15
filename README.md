@@ -1,6 +1,6 @@
 This repository contains university group/single projects as well as personal ones.
 
-**🐉  Python Projects brief description:
+##🐉  Python Projects brief description:
 
    **😮 AgentBasedModelling -> Based on a research paper mentioned within, a simulation of how fast a rumour causing a certain emotion
    spreads in a population considering the rumour causes the same emotion in every agent.
