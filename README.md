@@ -10,7 +10,8 @@ This repository contains university group/single projects as well as personal on
     and clustering algorithms
     
   💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public 
-  ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](url))
+  ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes)
+)
   
   💸 EuroCoins -> Simple pythong scrip that classifies euro coins based on their circularity.
   
