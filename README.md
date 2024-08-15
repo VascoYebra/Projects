@@ -9,7 +9,8 @@ This repository contains university group/single projects as well as personal on
     an relationships between variables (pearsons,spearman,etc...). The second part deals with feature selection, dimensionality reduction
     and clustering algorithms
     
-  💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public 
+  💥 TableauDashboard -> Includes Data cleaning, pre-processing analysing done in Python and the sharing done in Tableau public. Dataset is about EV and their 
+  predicted capacity based on countries, and different manufacturers
   ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes)
 )
   
