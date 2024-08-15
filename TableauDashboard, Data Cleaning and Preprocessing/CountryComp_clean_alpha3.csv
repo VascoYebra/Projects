@@ -1,0 +1,40 @@
+,Manufacturer,Country,2022 (GWh),2023 (GWh),2024 (GWh),2025 (GWh),2028 (GWh),2030 (GWh),2035 (GWh),2040 (GWh),2050 (GWh),alpha3_code
+0,CATL,China,184.4,259.7,,,307.0,600.0,,,,CHN
+1,CATL,Germany,0.0,0.0,0.0,,,100.0,,,,DEU
+2,LG Chem,Republic of Korea,,,,260.0,,,,,,ROK
+3,LG Chem,China,,,,,,,,,,CHN
+4,LG Chem,Poland,,,65.0,,,65.0,,,,POL
+5,LG Chem,United States of America,,,,,,,,,,USA
+6,TESLA,United States of America,,,,100.0,,,,,,USA
+7,BYD,China,70.5,111.4,,,,,,,,CHN
+8,Samsung SDI,China,,,,,94.0,,,,,CHN
+9,Samsung SDI,Hungary,,,40.0,,,40.0,,,,HUN
+10,Panasonic,Japan,,,17.0,17.0,,,,,,JPN
+11,Panasonic,United States of America,,,37.0,,,,,,,USA
+12,SK On,Republic of Korea,,,,,20.0,,,,,ROK
+13,SK On,Hungary,,17.5,,,115.0,,,,,HUN
+14,ACC,France,,,1.5,2.0,,125.0,,,,FRA
+15,Basquevolt,Spain,,,,1.0,10.0,,,,,ESP
+16,Beyonder,Norway,,,10.0,,,10.0,,,,NOR
+17,Blackstone Resources,Germany,,,5.0,,,5.0,,,,DEU
+18,Blyth,United Kingdom,,,,38.0,,40.0,,,,GBR
+19,Dunkirk,Norway,,,,16.0,,50.0,,,,NOR
+20,Envision,China,,,9.0,,,24.0,,,,CHN
+21,Envision AESC,United Kingdom,,,1.9,12.0,,18.0,,,,GBR
+22,Envision AESC,Japan,,,6.0,,18.0,18.0,,,,JPN
+23,Envision AESC,United States of America,,,3.0,30.0,,,,,,USA
+24,Envision AESC,France,,,,,,30.0,,,,FRA
+25,FAAM,Italy,,2.5,,,,8.0,,,,ITA
+26,Freyr,Norway,,,,50.0,100.0,200.0,,,,NOR
+27,Impact,Poland,,,5.0,,,5.0,,,,POL
+28,Inobat,Slovakia,,,4.0,10.0,,,,,,SVK
+29,Itavolt,Italy,,0.0,0.0,,40.0,45.0,,,,ITA
+30,Laclanche,Germany,,,2.5,,,2.5,,,,DEU
+31,Morrow,Norway,,,,32.0,43.0,,,,,NOR
+32,Northvolt,Sweden,,,0.0,40.0,,110.0,,,,SWE
+33,Northvolt,Germany,,,0.0,,,60.0,,,,DEU
+34,SCB,Switzerland,,,7.6,,,7.6,,,,CHE
+35,UK Centre of Electrification,United Kingdom,,,0.0,,,60.0,,,,GBR
+36,Varta,Germany,,,0.0,,,2.0,,,,DEU
+37,Volkswagen,Germany,,,0.0,,,40.0,,,,DEU
+38,Volkswagen,Spain,,,0.0,,,40.0,,,,ESP
