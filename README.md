@@ -14,7 +14,7 @@ This repository contains university group/single projects as well as personal on
   ([https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes](https://public.tableau.com/app/profile/vasco.cruz/viz/VisualAnalyticsV10/Dashboard1?publish=yes)
 )
   
-  - 💸 EuroCoins -> Simple python script that classifies euro coins based on their circularity.
+  - 💸 EuroCoins -> Simple python script that classifies euro coins based on their circularity and other factors
   
   - 🚗 PersonsVSCars -> Applying several image modification techniques to a previous recorded video file, to distinguish when a person
    or a car is on-screen, drawing the trajectory of both
