@@ -2,6 +2,8 @@ This repository contains university group/single projects as well as personal on
 
 ## 🐉  Python Projects brief description:
 
+  - 🎼 SpotifyVsWeather -> EDA done on a dataset involving spotify data and weather. Found correlations between different musical proprieties such as tempo, cadence and profanity and the weather and temperature.
+
   - 😮 AgentBasedModelling -> Based on a research paper mentioned within, a simulation of how fast a rumour causing a certain emotion
    spreads in a population, considering the rumour causes the same emotion in every agent.
    
